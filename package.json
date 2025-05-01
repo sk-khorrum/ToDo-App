@@ -1,5 +1,5 @@
 {
-  "name": "ToDo-app",
+  "name": "E_note",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
